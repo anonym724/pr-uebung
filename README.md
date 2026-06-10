@@ -1,4 +1,4 @@
-﻿# pr-uebung
+# pr-uebung
 
 Dieses Repository dient als Uebung fuer den ersten Pull Request.
 
